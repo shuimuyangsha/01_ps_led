@@ -1,0 +1,6 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\intel_project\AX7015\new\update\release\01_ps_led\ps_led.sdk\fsbl\Debug\fsbl.elf
+	D:\intel_project\AX7015\new\update\release\01_ps_led\ps_led.sdk\ps_led_test\Debug\ps_led_test.elf
+}
